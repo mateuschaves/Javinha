@@ -1,4 +1,3 @@
-
 package L05;
 
 import java.util.Scanner;
